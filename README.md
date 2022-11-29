@@ -1,2 +1,1 @@
-# Test
-Playing with branches
+# Folio3 Training
