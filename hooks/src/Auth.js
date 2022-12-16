@@ -7,7 +7,7 @@ const auth = useContext(AuthContext);
 console.log(auth.status);
 return (
 	<div>
-	<h1>(Use Context)Are you authenticated?</h1>
+	<h3>(Use Context)Are you authenticated?</h3>
 	{auth.status ?
 
 <p>Yes you are</p>
